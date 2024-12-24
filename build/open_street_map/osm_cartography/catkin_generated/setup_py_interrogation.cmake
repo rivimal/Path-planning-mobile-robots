@@ -1,0 +1,7 @@
+set(osm_cartography_SETUP_PY_SETUP_MODULE "distutils.core")
+set(osm_cartography_SETUP_PY_VERSION "0.3.0")
+set(osm_cartography_SETUP_PY_SCRIPTS "")
+set(osm_cartography_SETUP_PY_PACKAGES "osm_cartography")
+set(osm_cartography_SETUP_PY_PACKAGE_DIRS "src/osm_cartography")
+set(osm_cartography_SETUP_PY_MODULES "")
+set(osm_cartography_SETUP_PY_MODULE_DIRS "")
